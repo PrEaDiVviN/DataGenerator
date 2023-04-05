@@ -7,6 +7,13 @@ The paralelization has been made using threads, with a variable factor of parale
 
 ### Evaluation results
 
+#### Computer specs
+- Processor	Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, 2901 Mhz, 2 Core(s), 4 Logical Processor(s)
+- System Type	x64-based PC
+- Installed Physical Memory (RAM)	16.0 GB
+
+
+
 For 10 000 Publications:
 - 1 thread (in ms): 1922, 1645, 1392, 1646, 1559
   - min: 1392
